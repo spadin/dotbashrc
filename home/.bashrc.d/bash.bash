@@ -1,1 +1,1 @@
-source /usr/share/bash-completion/bash_completion
+source /etc/bash_completion
