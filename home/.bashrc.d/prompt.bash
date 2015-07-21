@@ -1,8 +1,8 @@
-green="\e[32m"
-cyan="\e[36m"
-red="\e[31m"
-yellow="\e[33m"
-reset_color="\e[0m"
+green="\033[32m"
+cyan="\033[36m"
+red="\033[31m"
+yellow="\033[33m"
+reset_color="\033[0m"
 
 export GITAWAREPROMPT=$HOME/.homesick/repos/git-aware-prompt
 source $GITAWAREPROMPT/main.sh
