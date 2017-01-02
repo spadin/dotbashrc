@@ -1,2 +1,2 @@
-alias ll="ls -alu"
-alias ls="ls --color"
+alias ll="ls -aluh --group-directories-first"
+alias ls="ls --color --group-directories-first"
